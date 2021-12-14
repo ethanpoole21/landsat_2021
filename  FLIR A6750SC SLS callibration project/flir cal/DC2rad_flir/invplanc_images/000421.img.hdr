@@ -1,0 +1,12 @@
+ENVI
+description = put this in the command line at some point
+samples = 640
+lines = 512
+bands = 1
+header offset = 0
+data type = 12
+interleave = bip
+sensor type = ENVI
+byte order = 0
+geo points = {320.0, 256.0, 43.082047161959224, -77.67567159846192}
+acquisition time = 2021-07-30T17:36:36.283901

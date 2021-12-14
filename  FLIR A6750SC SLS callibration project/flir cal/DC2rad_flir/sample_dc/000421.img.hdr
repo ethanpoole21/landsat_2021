@@ -1,0 +1,12 @@
+ENVI
+description = {000421.img}
+samples = 640
+lines = 512
+bands = 1
+header offset = 0
+data type = 12
+interleave = bip
+sensor type = ENVI
+byte order = 0
+geo points = {320.0, 256.0, 43.08174638691051, -77.67543535695508}
+acquisition time = 2021-07-30T17:37:15.684880
